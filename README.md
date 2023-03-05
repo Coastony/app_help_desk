@@ -4,7 +4,7 @@
  
  ## ✔️ Techniques and technologies used
 
-- ``HTML5`` ``CSS3`` ``JavaScript`` ``BootStrap`` ``PHP``
+- ``HTML5`` ``CSS3`` ``BootStrap`` ``PHP``
 
 <br>
 
