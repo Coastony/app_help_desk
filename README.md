@@ -14,3 +14,7 @@
 
 ## 📁 Project access
 You can access the project files by clicking [here](https://github.com/Coastony/app_help_desk)
+
+
+## 🔎 Link of project
+https://www.linkedin.com/posts/sergiobsantos_tecnologia-tech-devs-activity-7037472705293496320-AWKu?utm_source=share&utm_medium=member_desktop
