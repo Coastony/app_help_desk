@@ -17,4 +17,4 @@ You can access the project files by clicking [here](https://github.com/Coastony/
 
 
 ## 🔎 Link of project
-https://www.linkedin.com/posts/sergiobsantos_tecnologia-tech-devs-activity-7037472705293496320-AWKu?utm_source=share&utm_medium=member_desktop
+[App Help Desk](https://www.linkedin.com/posts/sergiobsantos_tecnologia-tech-devs-activity-7037472705293496320-AWKu?utm_source=share&utm_medium=member_desktop)
